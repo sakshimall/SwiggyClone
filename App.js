@@ -1,7 +1,10 @@
-import React from 'react'
+import React from "react";
 
 export default function App() {
-  return (
-    <div>App dvfd sdrfer fcbd</div>
-  )
+    return (
+        <div>
+            <h1>vdfv</h1>
+            <h2>dvsdv</h2>
+        </div>
+    );
 }
